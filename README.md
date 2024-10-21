@@ -32,19 +32,22 @@ Renomeie o arquivo .env.example para .env e configure suas variáveis de ambient
 
 cp .env.example .env
 
-Após isso, gere a chave da aplicação:
-
-php artisan key:generate
 
 ### 4. Configurar Banco de Dados
 Configure suas credenciais de banco de dados no arquivo .env. Exemplo:
 
 DB_CONNECTION=mysql
+
 DB_HOST=127.0.0.1
+
 DB_PORT=3306
+
 DB_DATABASE=nome_do_banco
+
 DB_USERNAME=seu_usuario
+
 DB_PASSWORD=sua_senha
+
 
 ### 5. Rodar Migrações
 Execute as migrações para criar as tabelas no banco de dados:
