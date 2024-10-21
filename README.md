@@ -20,6 +20,7 @@ Primeiro, clone o repositório para a sua máquina local:
 
 
 ```git clone https://github.com/gbgln/crud-laravel-gb.git```
+
 ```cd nome-do-repositorio```
 
 
