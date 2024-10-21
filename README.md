@@ -71,10 +71,10 @@ O servidor estará disponível em http://127.0.0.1:8000
 #### Seções Protegidas: Apenas usuários autenticados podem acessar determinadas seções do sistema.
 
 
-Tecnologias Utilizadas:
-Laravel - Framework PHP
-Bootstrap - Framework CSS
-MySQL - Banco de dados relacional
+#### Tecnologias Utilizadas:
+##### Laravel - Framework PHP
+##### Bootstrap - Framework CSS
+##### MySQL - Banco de dados relacional
 
 Sistema criado com base e auxilio dos seguintes videos, além de pesquisas em blogs de internet, StackOverflow e chatGPT:
 
