@@ -73,3 +73,9 @@ Tecnologias Utilizadas:
 Laravel - Framework PHP
 Bootstrap - Framework CSS
 MySQL - Banco de dados relacional
+
+Sistema criado com base e auxilio dos seguintes videos, além de pesquisas em blogs de internet, StackOverflow e chatGPT:
+
+https://www.youtube.com/watch?v=cDEVWbz2PpQ&t=2866s&ab_channel=LearnWebCode
+
+https://www.youtube.com/watch?v=_LA9QsgJ0bw&t=1981s&ab_channel=Devtamin
