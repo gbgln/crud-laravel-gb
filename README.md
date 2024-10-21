@@ -18,9 +18,10 @@ Para rodar este projeto Laravel, você precisará das seguintes dependências:
 
 Primeiro, clone o repositório para a sua máquina local:
 
-bash
+```bash
 git clone https://github.com/gbgln/crud-laravel-gb.git 
 cd nome-do-repositorio
+```bash
 
 ### 2. Instalar Dependências do PHP
 Rode o comando abaixo para instalar as dependências do Laravel:
