@@ -18,15 +18,18 @@ Para rodar este projeto Laravel, você precisará das seguintes dependências:
 
 Primeiro, clone o repositório para a sua máquina local:
 
-git clone https://github.com/gbgln/crud-laravel-gb.git
+git clone https://github.com/gbgln/crud-laravel-gb.git 
+
 cd nome-do-repositorio
 
 ### 2. Instalar Dependências do PHP
 Rode o comando abaixo para instalar as dependências do Laravel:
+
 composer install
 
 ### 3. Configurar Variáveis de Ambiente
 Renomeie o arquivo .env.example para .env e configure suas variáveis de ambiente, incluindo as credenciais de conexão com o banco de dados.
+
 cp .env.example .env
 
 Após isso, gere a chave da aplicação:
@@ -45,6 +48,7 @@ DB_PASSWORD=sua_senha
 
 ### 5. Rodar Migrações
 Execute as migrações para criar as tabelas no banco de dados:
+
 php artisan migrate
 
 ### 6. Rodar o Projeto Localmente
